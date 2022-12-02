@@ -1,0 +1,17 @@
+.button_1669948667476 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #eaeaea !important;
+    color: #006089 !important;
+    border: 3px solid #006089 !important;
+    border-radius: 5px !important;
+    font-size: 21px !important;
+    padding: 15px 50px !important; 
+    transition: all 1.6s ease !important;
+}
+.button_1669948667476:hover{
+    text-decoration: none !important; 
+    background-color: #b448ff !important;
+    color: #ffeded !important;
+    border-color: #131415 !important;
+}
